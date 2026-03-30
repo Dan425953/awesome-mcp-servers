@@ -202,6 +202,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
 - <img src="https://cdn.simpleicons.org/puppeteer/00D8A2" height="14"/> [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation for web scraping and interaction
+- 📸 [Rendex](https://github.com/copperline-labs/rendex-mcp) - Screenshot API for AI agents. Capture web pages as PNG/JPEG/WebP with element selector, dark mode, ad blocking, and full-page support. Free tier included.
 - <img src="https://cdn.simpleicons.org/brave/FB542B" height="14"/> [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Web search capabilities using Brave's Search API
 - <img src="https://github.com/user-attachments/assets/5d9346e8-7821-4202-80cd-25e0678d3400" height="14"/> [Bright Data](https://github.com/luminati-io/brightdata-mcp) - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
 - <img src="https://avatars.githubusercontent.com/u/204530939?s=200&v=4" height="14"/> [Dumpling AI](https://github.com/Dumpling-AI/mcp-server-dumplingai) - Access data, web scraping, and document conversion APIs by [Dumpling AI](https://www.dumplingai.com/)
